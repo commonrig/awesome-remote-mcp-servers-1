@@ -1052,6 +1052,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [CometChat Docs](https://www.cometchat.com/docs/mcp-server) `https://mcp.cometchat.com/mcp`
   [![CometChat Docs MCP connector](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.cometchat/docs-mcp)
   🔓 - Search CometChat chat, calling and moderation docs and get ready-made integration recipes.
+- [CommonRig](https://commonrig.com) `https://commonrig.com/mcp`
+  [![CommonRig MCP connector](https://glama.ai/mcp/connectors/com.commonrig/commonrig/badges/score.svg)](https://glama.ai/mcp/connectors/com.commonrig/commonrig)
+  🔓 - Read-only catalogue for an agent operating kit for Claude Code and Codex: contents, free sample, quotes and x402 payment terms.
 - [CompatLab](https://compatlab.me/) `https://compatlab.me/mcp`
   [![CompatLab MCP connector](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.siddiksawani/compatlab)
   🔓 - Read recorded npm loading results across pinned Node.js, Bun and Deno versions, with coverage and report links.
